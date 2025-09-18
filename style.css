@@ -16,3 +16,34 @@ body {
      width: 60rem;
      flex-grow: 1;
 }
+
+.itemlista {
+    height: 350px;
+    border: 5px solid yellow;
+    gap: 20px;
+    display: flex;
+    align-items: end;
+}
+
+.item {
+    background: aqua;
+}
+
+.item1 {
+    height: 20%; 
+}
+.item2 {
+    height: 30%; 
+}
+
+.item3 {
+    height: 40%;
+}
+
+.item4 {
+    height: 50%;
+}
+
+.item5 {
+    height: 60%;
+}
